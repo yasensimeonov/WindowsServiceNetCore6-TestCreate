@@ -1,0 +1,15 @@
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\bin\Debug\net6.0\WindowsServiceCreation.exe
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\bin\Debug\net6.0\WindowsServiceCreation.deps.json
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\bin\Debug\net6.0\WindowsServiceCreation.runtimeconfig.json
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\bin\Debug\net6.0\WindowsServiceCreation.dll
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\bin\Debug\net6.0\WindowsServiceCreation.pdb
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.csproj.AssemblyReference.cache
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.AssemblyInfoInputs.cache
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.AssemblyInfo.cs
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.csproj.CoreCompileInputs.cache
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.dll
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\refint\WindowsServiceCreation.dll
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.pdb
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\WindowsServiceCreation.genruntimeconfig.cache
+C:\Git\Yasen\WindowsServiceCreation\WindowsServiceCreation\obj\Debug\net6.0\ref\WindowsServiceCreation.dll

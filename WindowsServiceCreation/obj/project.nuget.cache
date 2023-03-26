@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GGQBtU9kQp2A5yZVSlwO9N9yjwP9UKH13MRyMfn3g8LCbiyrX6/bUl2kdc3HvZCkM4iLn4aSIHAHCtjE9Sw8+A==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\Yasen\\WindowsServiceCreation\\WindowsServiceCreation\\WindowsServiceCreation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.0\\system.serviceprocess.servicecontroller.7.0.0.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.15\\microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
